@@ -1,1 +1,1 @@
-print("hfhfhfhfhf")
+print("3")
